@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "motionviewtest",
+    "project_number": "498072162289",
+    "name": "MotionViewTest"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498072162289:android:8f0662bdbe83a66a",
+        "client_id": "android:test.erminesoft.com.motionviewtest",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "test.erminesoft.com.motionviewtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498072162289-kgu7cj2l45bqb98bst9p2cak2nqu9sc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.erminesoft.com.motionviewtest",
+            "certificate_hash": "6E6A8F75A421A09DFB5F984BE7F56FD708D8F52F"
+          }
+        },
+        {
+          "client_id": "498072162289-a9pqkg3dju0g687oactlldo0t86n1b2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
